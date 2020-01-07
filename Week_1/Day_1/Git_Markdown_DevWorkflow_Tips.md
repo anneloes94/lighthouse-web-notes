@@ -4,16 +4,18 @@
 
 ##### Headings
 
-[] '#' This is an H1
+[] '#' This is an H1  
 [] '##' This is an H2, etc. etc.
 
 ##### Piece of code
 
 You can make a block of code by using three backticks ```, followed by the language, closed off by three backticks again.
 
-" ```javascript
-" console.log(Hallo!)
-" ```
+```text
+```javascript  
+console.log(Hallo!)
+```
+```
 
 ##### Lists
 
@@ -28,4 +30,4 @@ You can refer to a link by `(text)[link] externally or internally through a dire
 
 You can see what this will look like through the preview mode in VS (Ctrl + K + V).
 
-See more (here)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet].
+See more [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
